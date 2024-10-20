@@ -15,6 +15,7 @@ namespace WindowsPracticing.Common
         {
             try
             {
+
                 DefaultWait<IWebDriver> fluentWait = new DefaultWait<IWebDriver>(driver)
                 {
                     Timeout = TimeSpan.FromSeconds(1000),
