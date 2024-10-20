@@ -1,0 +1,18 @@
+{
+  "Environment": {
+    "BrowserLanguage": "en",
+    "BrowserNames": "chrome"
+  },
+  "ApplicationDetails": {
+    "ApplicationUrl": "https://www.saucedemo.com/",
+    "UserName": "standard_user",
+    "Password": "secret_sauce"
+
+  },
+  "DBDetails": {
+    "DBURL": "http",
+    "DBusername": "dbuser",
+    "DBPassword": "password"
+  }
+
+}

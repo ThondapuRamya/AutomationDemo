@@ -1,0 +1,15 @@
+{
+  "Environment": {
+    "BrowserLanguage": "en",
+    "BrowserNames": "chrome"
+  },
+  "ApplicationDetails": {
+    "ApplicationUrl": "https://www.hyrtutorials.com/p/window-handles-practice.html"
+  },
+  "DBDetails": {
+    "DBName":"",
+    "DBUSername":"",
+    "DBPassword":"",
+    "DBURL":""
+  }
+}
