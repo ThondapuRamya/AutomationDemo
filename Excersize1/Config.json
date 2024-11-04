@@ -1,0 +1,12 @@
+{
+  "Environment": {
+    "BrowserLanguage": "en",
+    "BrowserNames": "chrome"
+  },
+  "ApplicationDetails": {
+    "ApplicationUrl": "https://automationexercise.com/login",
+    "UserName": "npotru3@gmail.com",
+    "Password": "NikNir23"
+
+  }
+}
