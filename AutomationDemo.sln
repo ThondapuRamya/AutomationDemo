@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomationDemo", "Automatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "core", "core\core.csproj", "{BA27BDA9-34F1-47D0-A9C2-5E5C8798FA53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsPracticing", "WindowsPracticing\WindowsPracticing.csproj", "{A733F218-D25D-4D0B-A012-DDC45717206C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsPracticing", "WindowsPracticing\WindowsPracticing.csproj", "{A733F218-D25D-4D0B-A012-DDC45717206C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICore", "APICore\APICore.csproj", "{6A40925E-DA8F-4C4B-BAC2-0E2078292FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITestcases", "APITestcases\APITestcases.csproj", "{0E363945-044C-4F99-A2F6-BB00782D8CC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{A733F218-D25D-4D0B-A012-DDC45717206C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A733F218-D25D-4D0B-A012-DDC45717206C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A733F218-D25D-4D0B-A012-DDC45717206C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A40925E-DA8F-4C4B-BAC2-0E2078292FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A40925E-DA8F-4C4B-BAC2-0E2078292FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A40925E-DA8F-4C4B-BAC2-0E2078292FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A40925E-DA8F-4C4B-BAC2-0E2078292FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E363945-044C-4F99-A2F6-BB00782D8CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E363945-044C-4F99-A2F6-BB00782D8CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E363945-044C-4F99-A2F6-BB00782D8CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E363945-044C-4F99-A2F6-BB00782D8CC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
