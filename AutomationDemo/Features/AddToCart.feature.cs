@@ -76,15 +76,17 @@ namespace AutomationDemo.Features
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Validating Menu Items")]
-        [NUnit.Framework.CategoryAttribute("tag1")]
         [NUnit.Framework.CategoryAttribute("UI")]
         [NUnit.Framework.CategoryAttribute("21")]
+        [NUnit.Framework.CategoryAttribute("Regression")]
+        [NUnit.Framework.CategoryAttribute("Smoke")]
         public async System.Threading.Tasks.Task ValidatingMenuItems()
         {
             string[] tagsOfScenario = new string[] {
-                    "tag1",
                     "UI",
-                    "21"};
+                    "21",
+                    "Regression",
+                    "Smoke"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             global::Reqnroll.ScenarioInfo scenarioInfo = new global::Reqnroll.ScenarioInfo("Validating Menu Items", null, tagsOfScenario, argumentsOfScenario, featureTags);
 #line 7
