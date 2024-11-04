@@ -3,7 +3,7 @@
 A short summary of the feature
 
 
-@tag1 @UI @21
+@UI @21 @Regression @Smoke
 Scenario: Validating Menu Items
 	Given I have entered application URL	
 	Then  Application login page will open
