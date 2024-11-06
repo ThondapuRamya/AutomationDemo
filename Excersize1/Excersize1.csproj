@@ -11,8 +11,4 @@
     <ProjectReference Include="..\core\core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Pages\" />
-  </ItemGroup>
-
 </Project>
